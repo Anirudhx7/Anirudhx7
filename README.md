@@ -1,6 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
-
+Hi, I’m Anirudh, a cybersecurity enthusiast who loves breaking things ethically and fixing them even better. I’m building my way into bug bounty hunting, security analysis, and real-world hacking labs one exploit at a time.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/anirudh-mehandru/) 
