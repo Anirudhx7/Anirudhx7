@@ -1,6 +1,5 @@
 # 💫 Hi, I’m Anirudh
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/anirudh-mehandru/) 
-<br>A cybersecurity professional who loves breaking things ethically and fixing them even better. I’m building strong foundations in vulnerability assessment, security automation, bug bounty methodologies through real-world hacking labs, one exploit at a time.
+A cybersecurity professional who loves breaking things ethically and fixing them even better. I’m building strong foundations in vulnerability assessment, security automation, bug bounty methodologies through real-world hacking labs, one exploit at a time.
 
 
 <!--  # 💻 Tech Stack:
