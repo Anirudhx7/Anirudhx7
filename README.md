@@ -1,8 +1,7 @@
 # 💫 Hi, I’m Anirudh
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/anirudh-mehandru/) 
 A cybersecurity professional who loves breaking things ethically and fixing them even better. I’m building strong foundations in vulnerability assessment, security automation, bug bounty methodologies through real-world hacking labs, one exploit at a time.
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/anirudh-mehandru/) 
 
 # 💻 Tech Stack:
 ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
@@ -12,6 +11,7 @@ A cybersecurity professional who loves breaking things ethically and fixing them
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
+| Live Honeypot Deployment & Threat Intelligence Analysis         | <a href="[https://google.com](https://github.com/Anirudhx7/Live-Honeypot-Deployment-And-Threat-Analysis.git)">Honeypot</a>|
 | SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
