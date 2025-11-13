@@ -3,8 +3,8 @@
 <br>A cybersecurity professional who loves breaking things ethically and fixing them even better. I’m building strong foundations in vulnerability assessment, security automation, bug bounty methodologies through real-world hacking labs, one exploit at a time.
 
 
-# 💻 Tech Stack:
-![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+<!--  # 💻 Tech Stack:
+![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) -->
 
 ## Projects
 
@@ -20,6 +20,27 @@
 
 ## Tools
 ### Cybersecurity & Pentesting: 
+<div>
+<img src="https://img.shields.io/badge/-Burp%20Suite-FF6F00?style=for-the-badge&logo=burpsuite&logoColor=white" />
+<img src="https://img.shields.io/badge/-OWASP%20ZAP-00549E?style=for-the-badge&logo=owasp&logoColor=white" />
+<img src="https://img.shields.io/badge/-Nmap-004E89?style=for-the-badge&logo=nmap&logoColor=white" />
+<img src="https://img.shields.io/badge/-Nessus-009E60?style=for-the-badge&logo=tenable&logoColor=white" />
+<img src="https://img.shields.io/badge/-Nikto-8B0000?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/-Dirsearch%20%2F%20Gobuster-2F4F4F?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/-Metasploit-2274A5?style=for-the-badge&logo=metasploit&logoColor=white" />
+<img src="https://img.shields.io/badge/-Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+<img src="https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+</div>
+
+### Operating System:
+<div>
+<img src="https://img.shields.io/badge/-Kali%20Linux-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white" />
+<img src="https://img.shields.io/badge/-Parrot%20OS-15A086?style=for-the-badge&logo=linux&logoColor=white" />
+<img src="https://img.shields.io/badge/-Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
+<img src="https://img.shields.io/badge/-Windows%2010%2F11-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+<img src="https://img.shields.io/badge/-Windows%20Server-00A4EF?style=for-the-badge&logo=windows&logoColor=white" />
+</div>
+
 ### Network
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
@@ -27,11 +48,27 @@
     <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
 </div>
 
-### Endpoint
+### Cloud & Virtualization
+<div>
+<img src="https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+<img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/-VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white" />
+<img src="https://img.shields.io/badge/-VMware-607078?style=for-the-badge&logo=vmware&logoColor=white" />
+</div>
+
+### Programming & Scripting
+<div>
+<img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/-Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+<img src="https://img.shields.io/badge/-PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" />
+<img src="https://img.shields.io/badge/-SQL-003B57?style=for-the-badge&logo=databricks&logoColor=white" />
+</div>
+
+<!-- ### Endpoint
 <div>
     <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
-</div>
+</div>  -->
 
 ### SIEM
 <div>
@@ -52,6 +89,7 @@
 <img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />  !-->
 </div>
 
-## Projects
+<!-- ## Projects
 - Detection Lab
 - SOC Automation Project
+-->
