@@ -1,6 +1,6 @@
 # 💫 Hi, I’m Anirudh
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/anirudh-mehandru/) 
-A cybersecurity professional who loves breaking things ethically and fixing them even better. I’m building strong foundations in vulnerability assessment, security automation, bug bounty methodologies through real-world hacking labs, one exploit at a time.
+<br>A cybersecurity professional who loves breaking things ethically and fixing them even better. I’m building strong foundations in vulnerability assessment, security automation, bug bounty methodologies through real-world hacking labs, one exploit at a time.
 
 
 # 💻 Tech Stack:
@@ -11,7 +11,7 @@ A cybersecurity professional who loves breaking things ethically and fixing them
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Live Honeypot Deployment & Threat Intelligence Analysis         | <a href="[https://google.com](https://github.com/Anirudhx7/Live-Honeypot-Deployment-And-Threat-Analysis.git)">Honeypot</a>|
+| Live Honeypot Deployment & Threat Intelligence Analysis         | <a href="https://github.com/Anirudhx7/Live-Honeypot-Deployment-And-Threat-Analysis.git">Honeypot</a>|
 | SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
