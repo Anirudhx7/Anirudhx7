@@ -29,7 +29,6 @@
 <img src="https://img.shields.io/badge/-Dirsearch%20%2F%20Gobuster-2F4F4F?style=for-the-badge&logoColor=white" />
 <img src="https://img.shields.io/badge/-Metasploit-2274A5?style=for-the-badge&logo=metasploit&logoColor=white" />
 <img src="https://img.shields.io/badge/-Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
-<img src="https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 </div>
 
 ### Operating System:
