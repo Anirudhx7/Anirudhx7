@@ -11,7 +11,7 @@ A cybersecurity professional who loves breaking things ethically and fixing them
 |-----------------------------------------------|----------------------------|
 | Live Honeypot Deployment & Threat Intelligence Analysis         | <a href="https://github.com/Anirudhx7/Live-Honeypot-Deployment-And-Threat-Analysis.git">Honeypot</a>|
 | Malware-Detection-Using-Machine-Learning          | <a href="https://github.com/Anirudhx7/Malware-Detection-Using-Machine-Learning.git">Malware Detection</a>|
-| Threat Detection & SIEM Analysis Lab | <a href="https://github.com/Anirudhx7/Threat-Detection-SIEM-Analysis-Lab.git">SIEM Lab</a>|
+| Enterprise SOC Simulation & Threat Detection Lab| <a href="https://github.com/Anirudhx7/Enterprise-SOC-Simulation-Threat-Detection-Lab.git">SOC Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
