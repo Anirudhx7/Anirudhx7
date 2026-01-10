@@ -9,6 +9,7 @@ A cybersecurity professional who loves breaking things ethically and fixing them
 
 | Project                                       | Associated link         |
 |-----------------------------------------------|----------------------------|
+| Automated Cloud Defense System: WAF & Threat Mitigation| <a href="https://github.com/Anirudhx7/Automated-Cloud-Defense-System.git">Automated Cloud Defense </a>|
 | Active Defense Lab: Automated Threat Neutralization| <a href="https://github.com/Anirudhx7/Active-Defense-Lab.git">Active Defense Lab</a>|
 | Enterprise SOC Simulation & Threat Detection Lab| <a href="https://github.com/Anirudhx7/Enterprise-SOC-Simulation-Threat-Detection-Lab.git">Enterprise SOC Lab</a>|
 | Live Honeypot Deployment & Threat Intelligence Analysis | <a href="https://github.com/Anirudhx7/Live-Honeypot-Deployment-Threat-Intelligence-Analysis.git">Honeypot & Threat Intel</a>|
