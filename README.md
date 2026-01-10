@@ -21,7 +21,7 @@ A cybersecurity professional who loves breaking things ethically and fixing them
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 -->
 ## Tools
-### Cybersecurity & Pentesting: 
+### Cybersecurity & Pentesting: 
 <div>
 <img src="https://img.shields.io/badge/-Burp%20Suite-FF6F00?style=for-the-badge&logo=burpsuite&logoColor=white" />
 <img src="https://img.shields.io/badge/-OWASP%20ZAP-00549E?style=for-the-badge&logo=owasp&logoColor=white" />
@@ -33,13 +33,14 @@ A cybersecurity professional who loves breaking things ethically and fixing them
 <img src="https://img.shields.io/badge/-Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
 </div>
 
-### Operating System:
+### Operating System & Identity:
 <div>
 <img src="https://img.shields.io/badge/-Kali%20Linux-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white" />
 <img src="https://img.shields.io/badge/-Parrot%20OS-15A086?style=for-the-badge&logo=linux&logoColor=white" />
 <img src="https://img.shields.io/badge/-Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
 <img src="https://img.shields.io/badge/-Windows%2010%2F11-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
 <img src="https://img.shields.io/badge/-Windows%20Server-00A4EF?style=for-the-badge&logo=windows&logoColor=white" />
+<img src="https://img.shields.io/badge/-Active%20Directory-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
 </div>
 
 ### Network
@@ -49,9 +50,11 @@ A cybersecurity professional who loves breaking things ethically and fixing them
     <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
 </div>
 
-### Cloud & Virtualization
+### Cloud, Virtualization & IaC
 <div>
 <img src="https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+<img src="https://img.shields.io/badge/-Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
+<img src="https://img.shields.io/badge/-Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white" />
 <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 <img src="https://img.shields.io/badge/-VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white" />
 <img src="https://img.shields.io/badge/-VMware-607078?style=for-the-badge&logo=vmware&logoColor=white" />
