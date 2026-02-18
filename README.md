@@ -1,12 +1,7 @@
 # 💫 Hi, I’m Anirudh
-A **Cybersecurity & Cloud Professional** bridging the gap between **Infrastructure**, **Automation**, and **Defense**.
+**Cloud & Infrastructure Engineer** with a background in Cybersecurity. I bridge the gap between "It works" and "It's secure." Focused on **Infrastructure Automation**, and **Defense**.
 <!--
-I specialize in **DevSecOps** and **Cloud Security**, focusing on one goal: reducing "Time-to-Detect" and "Time-to-Remediate." Whether it's automating server onboarding or deploying active threat traps, I use code to build security that moves faster than the attackers.
-
-# 💫 Hi, I’m Anirudh
-A **Cybersecurity & Cloud Professional** bridging the gap between **Infrastructure**, **Automation**, and **Defense**.
-
-I move beyond just "managing" servers—I build automated pipelines to secure them. I am focused on eliminating manual toil through code and implementing active defense systems. My goal is to apply my background in systems administration to solve complex problems in **Cloud Security** and **DevSecOps**.
+I use code to build security that moves faster than the attackers.
 -->
 <!--  # 💻 Tech Stack:
 ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) -->
