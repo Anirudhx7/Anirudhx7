@@ -10,6 +10,7 @@ I use code to build security that moves faster than the attackers.
 
 | Project | Domain | Link |
 | :--- | :--- | :--- |
+| **SuiteCRM-MCP** | **MCP / Automation** | <a href="https://github.com/Anirudhx7/suitecrm-mcp.git">suitecrm-mcp</a>|
 | **Hybrid Infrastructure Observability Pipeline** | **DevSecOps / Automation** | <a href="https://github.com/Anirudhx7/Ansible-Zabbix-Hybrid-Pipeline">Ansible-Zabbix Pipeline</a>|
 | **Automated Cloud Defense System** | **Cloud Security** | <a href="https://github.com/Anirudhx7/Automated-Cloud-Defense-System">Cloud Defense WAF</a>|
 | **Active Defense Lab** | **Endpoint Security** | <a href="https://github.com/Anirudhx7/Active-Defense-Lab">Active Defense Lab</a>|
